@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254359544181",
+    "project_id": "teraquiz-de13c",
+    "storage_bucket": "teraquiz-de13c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254359544181:android:f4b062e0f937af1c49b33c",
+        "android_client_info": {
+          "package_name": "com.example.teraquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254359544181-hmmoo4n3sftdbahhrp398ur83gkegp14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBA745rqf92WqfGfvXjRK-xX-x-ubLSBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254359544181-hmmoo4n3sftdbahhrp398ur83gkegp14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
