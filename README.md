@@ -9,6 +9,10 @@ Introducing the ultimate quizzing app designed to challenge and engage students 
 3. Open an existing project in android studio
 4. Build (using the hammer icon) and install the app.
 
+# Features 
+1. The app's primary objective is to enrich students' knowledge by providing interactive virtual assessments.
+2. The app enables users to monitor their progress by keeping a record of their scores across multiple successive tests.
+3. Educators are empowered to customize, monitor, and maintain a comprehensive record of their students' scores using the app's features.
 
 # Screenshots 
 
