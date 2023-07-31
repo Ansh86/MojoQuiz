@@ -18,4 +18,4 @@ Introducing the ultimate quizzing app designed to challenge and engage students 
 
 <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/7.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/8.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/9.jpg" width="200" height="400">
 
-<img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/10.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/11.jpg" 
+<img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/10.jpg" width="200" height="400"> <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/11.jpg" width="200" height="400">  
