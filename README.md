@@ -10,10 +10,12 @@ Introducing the ultimate quizzing app designed to challenge and engage students 
 4. Build (using the hammer icon) and install the app.
 
 
-#Screenshots DarkTheme
-<img src="https://github.com/Ansh86/ListSync/blob/master/1.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/ListSync/blob/master/1.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/ListSync/blob/master/1.jpg" width="200" height="400">  
+# Screenshots 
 
-<img src="https://github.com/Ansh86/ListSync/blob/master/5.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/ListSync/blob/master/4.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/ListSync/blob/master/6.jpg" width="200" height="400">  
+<img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/1.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/2.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/3.jpg" width="200" height="400">  
 
-<img src="https://github.com/Ansh86/ListSync/blob/master/9.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/ListSync/blob/master/7.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/ListSync/blob/master/8.jpg" width="200" height="400">  
+<img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/4.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/5.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/6.jpg" width="200" height="400"> 
 
+<img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/7.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/8.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/9.jpg" width="200" height="400">
+
+<img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/10.jpg" width="200" height="400">  <img src="https://github.com/Ansh86/MojoQuiz/blob/master/dark/11.jpg" 
